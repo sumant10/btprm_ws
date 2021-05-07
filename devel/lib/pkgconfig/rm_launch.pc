@@ -1,0 +1,1 @@
+/home/shashank/BTP2/btprm_ws/devel/.private/rm_launch/lib/pkgconfig/rm_launch.pc

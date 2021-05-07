@@ -1,0 +1,8 @@
+prefix=/home/shashank/BTP2/btprm_ws/devel/.private/rm_launch
+
+Name: rm_launch
+Description: Description of rm_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
